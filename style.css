@@ -1,0 +1,61 @@
+.one {
+    background-color: rgb(51, 51, 51);
+    height: 40px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.two {
+    text-align: center;
+    padding-top: 100px;
+    color: grey;
+}
+
+.three {
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+}
+
+.forth {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.fifth {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(250, 4, 217);
+}
+
+.sixth {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.image {
+    margin-left: 640px;
+    margin-top: -5px;
+
+
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+}
+
+.section2 {
+
+    background-color: white;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.se{
+    margin-left:500px;
+}
