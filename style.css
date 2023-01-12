@@ -1,6 +1,6 @@
 .one {
     background-color: rgb(51, 51, 51);
-    height: 40px;
+    height: 60px;
     margin-left: -8px;
     margin-right: -8px;
     margin-top: -8px;
@@ -10,7 +10,7 @@
 
 .two {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 40px;
     color: grey;
 }
 
@@ -45,10 +45,6 @@
 
 }
 
-a:hover {
-    color: rgb(255, 0, 0);
-}
-
 .section2 {
 
     background-color: white;
@@ -56,6 +52,3 @@ a:hover {
     margin-right: -8px;
 }
 
-.se{
-    margin-left:500px;
-}
